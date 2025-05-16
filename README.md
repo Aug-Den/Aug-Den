@@ -6,11 +6,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## My formation will teach me on
 
 ![Talend](https://img.shields.io/badge/Talend-1976D2?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
@@ -21,9 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[My LinkedIn](https://fr.linkedin.com/in/augustin-dendievel)
+💼 [LinkedIn](https://fr.linkedin.com/in/augustin-dendievel)
+✉️ Email : augustin.dendievel@gmail.com
 </p>
 
+![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aug-den&show_icons=true&theme=github_dark)
+
+## Project
+- 🔍 [Monthly salaries](https://github.com/Aug-Den/Formation_Brief_1)
+- 🐳 [Wa-Tor project](https://github.com/Aug-Den/wa-tor-world)
+- 🧬 [Game of Life](https://github.com/Aug-Den/game_of_life)
 
 <!--
 **Aug-Den/Aug-Den** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

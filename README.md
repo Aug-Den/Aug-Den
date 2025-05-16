@@ -20,11 +20,9 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me
 - 💼 [LinkedIn](https://fr.linkedin.com/in/augustin-dendievel)
-- ✉️ [Email](augustin.dendievel@gmail.com)
-</p>
+- ✉️ [Email](augustin.dendievel@gmail.com))
 
 ![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aug-den&show_icons=true&theme=github_dark)
 

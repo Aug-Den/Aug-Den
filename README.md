@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-💼 [LinkedIn](https://fr.linkedin.com/in/augustin-dendievel)
-✉️ Email : augustin.dendievel@gmail.com
+- 💼 [LinkedIn](https://fr.linkedin.com/in/augustin-dendievel)
+- ✉️ [Email](augustin.dendievel@gmail.com)
 </p>
 
 ![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aug-den&show_icons=true&theme=github_dark)

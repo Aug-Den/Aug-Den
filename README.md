@@ -59,6 +59,7 @@
 - 🔍 [Monthly salaries](https://github.com/Aug-Den/Formation_Brief_1)
 - 🐳 [Wa-Tor project](https://github.com/Aug-Den/wa-tor-world)
 - 🧬 [Game of Life](https://github.com/Aug-Den/game_of_life)
+- 📋 [Trello](https://github.com/Aug-Den/mini_trello)
 
 <!--
 **Aug-Den/Aug-Den** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

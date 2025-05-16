@@ -22,7 +22,7 @@
 
 ## Connect with me
 - 💼 [LinkedIn](https://fr.linkedin.com/in/augustin-dendievel)
-- ✉️ [Email](augustin.dendievel@gmail.com))
+- ✉️ Email : augustin.dendievel@gmail.com
 
 ![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aug-den&show_icons=true&theme=github_dark)
 

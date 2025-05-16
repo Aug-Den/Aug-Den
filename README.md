@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-Data_Transformation-FFA500?style=for-the-badge&labelColor=CC8400)
+[![Power Query](https://img.shields.io/badge/Power_Query-Data_Transformation-FFA500?style=for-the-badge&labelColor=CC8400)](https://learn.microsoft.com/en-us/power-query/)
 ![Toad for MySQL](https://img.shields.io/badge/Toad_for_MySQL-Database-0000FF?style=for-the-badge&labelColor=003399)
 ![BIRT (Eclipse)](https://img.shields.io/badge/BIRT_Eclipse_Reporting-Reporting-800080?style=for-the-badge&labelColor=660066)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)

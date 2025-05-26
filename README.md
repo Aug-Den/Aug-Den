@@ -1,8 +1,9 @@
 ## 👋 Hi there, I'm Augustin Dendievel 👋
 
 ## Projects
-- 🔍 [Monthly salaries](https://github.com/Aug-Den/Formation_Brief_1)
+- 🚴 [e-commerce_project](https://github.com/Aug-Den/e_bike_shop) -- under construction
 - 🐳 [Wa-Tor project](https://github.com/Aug-Den/wa-tor-world)
+- 🔍 [Monthly salaries](https://github.com/Aug-Den/Formation_Brief_1)
 - 🧬 [Game of Life](https://github.com/Aug-Den/game_of_life) -- under construction
 - 📋 [Trello](https://github.com/Aug-Den/mini_trello)
 

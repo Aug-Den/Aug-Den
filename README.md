@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Augustin Dendievel 👋
 
 ## Projects
-- 💵 [expense manager]() -- private repos for the moment
+- 💵 [expense manager](https://github.com/Aug-Den) -- private repos for the moment
 - 🚴 [e-commerce_project](https://github.com/Aug-Den/e_bike_shop)
 - 🐳 [Wa-Tor project](https://github.com/Aug-Den/wa-tor-world)
 - 🔍 [Monthly salaries](https://github.com/Aug-Den/Formation_Brief_1)

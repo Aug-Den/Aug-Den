@@ -5,6 +5,7 @@
 - 🚴 [e-commerce_project](https://github.com/Aug-Den/e_bike_shop)
 - 🐳 [Wa-Tor project](https://github.com/Aug-Den/wa-tor-world)
 - 🔍 [Monthly salaries](https://github.com/Aug-Den/Formation_Brief_1)
+- 🎓 [ORM Training Management](https://github.com/Aug-Den/gestion-formation-orm)
 - 🧬 [Game of Life](https://github.com/Aug-Den/game_of_life) -- under construction
 - 📋 [Trello](https://github.com/Aug-Den/mini_trello)
 

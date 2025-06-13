@@ -45,7 +45,7 @@
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
-## 🎓 My formation will teach me on
+## 🎓 Training on
 
 ### 🗄️ Databases
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
@@ -68,12 +68,8 @@
 [![GDPR](https://img.shields.io/badge/GDPR-Data_Protection-FFA500?style=for-the-badge&labelColor=CC8400)](https://gdpr-info.eu/)
 
 ### 🚢 Dev & Deployment
-[![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Apache Hive](https://img.shields.io/badge/Apache_Hive-FF9900?style=for-the-badge&logo=apache-hive&logoColor=white)](https://hive.apache.org/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/)
 
 ## Connect with me
 - 💼 [LinkedIn](https://fr.linkedin.com/in/augustin-dendievel)
